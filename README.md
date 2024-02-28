@@ -1,3 +1,6 @@
+## ![image](https://github.com/Chiikar/Customer-Shopping-Data/assets/156119801/6882abc6-c8d4-440c-b9e5-4c93f30b53de)
+
+
 # Customer Sales Analysis
 
 ### Project Overview
