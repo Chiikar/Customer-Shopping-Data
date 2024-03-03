@@ -1,7 +1,7 @@
 ## ![image](https://github.com/Chiikar/Customer-Shopping-Data/assets/156119801/6882abc6-c8d4-440c-b9e5-4c93f30b53de)
 
 
-# Customer Sales Analysis
+# Customer-Sales-Analysis
 
 ### Project Overview
 The customer shopping data examined provides valuable insights into consumer behavior, preferences, and trends. Businesses can enhance their understanding of customer purchasing habits, identify popular products, and refine marketing strategies through this data, which includes customer demographics, purchase history, product categories, and transaction details.
