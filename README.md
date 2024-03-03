@@ -3,17 +3,17 @@
 
 # Customer-Sales-Analysis
 
-### Project Overview
+### Project-Overview
 The customer shopping data examined provides valuable insights into consumer behavior, preferences, and trends. Businesses can enhance their understanding of customer purchasing habits, identify popular products, and refine marketing strategies through this data, which includes customer demographics, purchase history, product categories, and transaction details.
 
-### Data Sources
+### Data-Sources
 Customer Shopping Data: The primary dataset used for this analysis is "Customer-shopping-data.xlsx", containing detailed information about each sale made in the company.
 
 ### Tools
 - Excel: Used for data cleaning and analysis.
 - PowerBI: Utilized for creating reports.
   
-### Data Cleaning/Preparation
+### Data-Cleaning-and-Preparation
 In the initial data preparation phase, tasks included: 
 - data loading
 - inspection
@@ -21,7 +21,7 @@ In the initial data preparation phase, tasks included:
 - formatting
 - addressing nulls and duplicates.
 
-### Exploratory Data Analysis (EDA)
+### Exploratory-Data-Analysis (EDA)
 EDA involved exploring the sales data to answer key questions such as:
 
 - Unique categories of items
@@ -33,7 +33,7 @@ EDA involved exploring the sales data to answer key questions such as:
 - Correlation between age and quantity of items purchased
 - Top 5 customers based on total amount spent
 
-### Data Analysis
+### Data-Analysis
 Analysis included metrics such as:
 - total revenue
 - total quantity ordered
